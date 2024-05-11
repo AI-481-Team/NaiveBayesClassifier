@@ -2,7 +2,7 @@
 
 ### Repo Link:
 
-** Repository link:  https://github.com/AI-481-Team/NaiveBayesClassifier ** 
+**Repository link:  https://github.com/AI-481-Team/NaiveBayesClassifier** 
 
 
 
