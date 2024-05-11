@@ -15,4 +15,12 @@ https://www.kaggle.com/datasets/abdallahwagih/spam-emails/data
 https://www.kaggle.com/datasets/jackksoncsie/spam-email-dataset
 
 
+
+### Ho the repo works:
+
+- go to Data/Preprocessung and run Preprocessing.ipynb. 
+- Then go to TryingAndTesting and run results.ipynb
+
+
+Models contains classes of models to be used in results.ipynb. These models have been tested and partially developed in TryingAndTesting/playground.ipynb.
  
